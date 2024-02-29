@@ -28,8 +28,13 @@ Mentee assignment from IBM Advance AI @ Infinite Learning
 
 ## Procedures
  1 Create the project
+ 
  2 Create the data model specification
+ 
  3 Create the model wrapper
+ 
  4 Include the module and package dependencies
+ 
  5 Start the Caikit runtime
+ 
  6 Test the sentiment analysis
