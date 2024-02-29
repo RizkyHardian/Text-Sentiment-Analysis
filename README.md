@@ -2,7 +2,7 @@
 # [Sentiment Analysis with Caikit and Hugging Face](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0PYAEN+v1?authuser=0)
 ## **Author** : @CognitiveClass
 
-Course completion of Natural Language Processing with Hugging Face Transformers from CognitiveClass.ai
+Course completion of Sentiment Analysis with Caikit and Hugging Face from CognitiveClass.ai
 
 
 **Name** : Rizky Hardian Nor
