@@ -5,7 +5,7 @@
  * @Mark Sturdevant
  * @MARTIN HICKEY
 
---
+#
 Note: This project is based on the [Caikit](https://caikit.readthedocs.io/en/latest/index.html) Tutorial: [Inferring an AI model from a client application with Caikit](https://caikit.github.io/website/docs/tutorial_appdev.html)
 
 Course completion of Sentiment Analysis with Caikit and Hugging Face from CognitiveClass.ai
